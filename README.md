@@ -51,6 +51,6 @@ My email address is
 
 [1.0.0]: https://github.com/iAJTin/iShell/tree/main/deliverables/Svg/v1.0.0 
 
-[thumbnail]: ./assets/svg_thumbnails.png "thumbnails"
-[preview]: ./assets/svg_preview.png "preview"
+[svg_thumbnails]: ./assets/svg_thumbnails.png "thumbnails"
+[svg_preview]: ./assets/svg_preview.png "preview"
 [email]: ./assets/email.png "email"
