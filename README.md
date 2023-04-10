@@ -10,7 +10,26 @@
 ***
 
 # What is iShell?
-Shell contains a set of extensions for windows explorer, such as svg file preview
+**iShell** contains a set of extensions for windows explorer.
+
+Contains a set of extensions for windows explorer, the first extension provides the ability to display 
+thumbnails for ***svg*** files as well as the ability to display a preview in the preview pane of file explorer.
+
+I hope it helps someone. :smirk:
+
+# Usage
+
+## Thumbnails
+
+Below in the image we can see how the explorer shows us the contents of a folder that contains a series of svg files without using the extension and how it would be displayed when using the extension.
+
+![svg_thumbnails][svg_thumbnails] 
+
+## Preview
+
+Below in the image we can see how the explorer shows us the contents of a folder that contains a series of svg files without using the extension and how it would be displayed when using the extension.
+
+![svg_preview][svg_preview] 
 
 # Installer
 
@@ -31,4 +50,7 @@ My email address is
 
 
 [1.0.0]: https://github.com/iAJTin/iShell/tree/main/deliverables/Svg/v1.0.0 
+
+[thumbnail]: ./assets/svg_thumbnails.png "thumbnails"
+[preview]: ./assets/svg_preview.png "preview"
 [email]: ./assets/email.png "email"
