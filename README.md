@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/iAJTin/iShell/tree/master/assets/icon.png" height="32">
+  <img src="https://github.com/iAJTin/iShell/blob/main/assets/icon.png" height="32">
 </p>
 <p align="center">
   <a href="https://github.com/iAJTin/iShell">
@@ -30,6 +30,5 @@ My email address is
 ![email.png][email] 
 
 
-[1.0.0]: https://github.com/iAJTin/iShell/tree/master/deliverables/svg/v1.0.0
-
+[1.0.0]: https://github.com/iAJTin/iShell/tree/main/deliverables/Svg/v1.0.0 
 [email]: ./assets/email.png "email"
