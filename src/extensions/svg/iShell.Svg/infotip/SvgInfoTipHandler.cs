@@ -13,7 +13,7 @@ namespace iShell.Svg;
 /// </summary>
 [ComVisible(true)]
 [DisplayName("SVG File Info Tip Handler")]
-[COMServerAssociation(AssociationType.ClassOfExtension, ".svg")]
+[COMServerAssociation(AssociationType.FileExtension, ".svg")]
 public class SvgInfoTipHandler : SharpInfoTipHandler
 {
     /// <summary>

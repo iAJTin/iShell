@@ -3,7 +3,7 @@
 "VSVersion" = "3:800"
 "ProjectType" = "8:{978C614F-708E-4E1A-B201-565925725DBA}"
 "IsWebType" = "8:FALSE"
-"ProjectName" = "8:iShell.SvgSetup"
+"ProjectName" = "8:iShell.SvgSetup64"
 "LanguageId" = "3:0"
 "CodePage" = "3:1252"
 "UILanguageId" = "3:0"
@@ -15,7 +15,7 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_2CB6A7B49761C60BB97B03E84938B9CB"
+        "MsmKey" = "8:_A3C3C302A695BA8F01544D36B871D13B"
         "OwnerKey" = "8:_C37EF49A8D7946E28E39A4F5EE4E6E22"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -40,7 +40,7 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_2CB6A7B49761C60BB97B03E84938B9CB"
+        "OwnerKey" = "8:_A3C3C302A695BA8F01544D36B871D13B"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -83,7 +83,7 @@
         "DisplayName" = "8:Release"
         "IsDebugOnly" = "11:FALSE"
         "IsReleaseOnly" = "11:TRUE"
-        "OutputFilename" = "8:..\\..\\..\\..\\deliverables\\Svg\\v1.0.0\\iShell.SvgSetup.msi"
+        "OutputFilename" = "8:..\\..\\..\\..\\deliverables\\Svg\\v1.0.0\\iShell.SvgSetup64.msi"
         "PackageFilesAs" = "3:2"
         "PackageFileSize" = "3:-2147483648"
         "CabType" = "3:1"
@@ -166,14 +166,14 @@
         }
         "File"
         {
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_2CB6A7B49761C60BB97B03E84938B9CB"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_A3C3C302A695BA8F01544D36B871D13B"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:SharpShell, Version=2.7.2.0, Culture=neutral, PublicKeyToken=f14dc899472fe6fb, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_2CB6A7B49761C60BB97B03E84938B9CB"
+                    "_A3C3C302A695BA8F01544D36B871D13B"
                     {
                     "Name" = "8:SharpShell.dll"
                     "Attributes" = "3:512"
@@ -247,7 +247,7 @@
             }
             "{3C67513D-01DD-4637-8A68-80971EB9504F}:_79C0282F214B4C0584D663999C372855"
             {
-            "DefaultLocation" = "8:[ProgramFilesFolder][Manufacturer]\\[ProductName]"
+            "DefaultLocation" = "8:[ProgramFiles64Folder][Manufacturer]\\[ProductName]"
             "Name" = "8:#1925"
             "AlwaysCreate" = "11:FALSE"
             "Condition" = "8:"
@@ -285,7 +285,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:SVG Shell Explorer Extensions"
         "ProductCode" = "8:{E5FFAC0A-CDAE-40FA-AAB2-F6044C7F6614}"
-        "PackageCode" = "8:{68E64733-23FA-42E7-A828-B5593FD73391}"
+        "PackageCode" = "8:{44711FB8-DEC3-4985-8CD2-4DA98AEA6090}"
         "UpgradeCode" = "8:{33CB3FC5-8084-43C0-8B7A-403C05DEEA8D}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -306,7 +306,7 @@
         "ARPIconIndex" = "3:0"
         "SearchPath" = "8:"
         "UseSystemSearchPath" = "11:TRUE"
-        "TargetPlatform" = "3:0"
+        "TargetPlatform" = "3:1"
         "PreBuildEvent" = "8:"
         "PostBuildEvent" = "8:"
         "RunPostBuildEvent" = "3:0"
